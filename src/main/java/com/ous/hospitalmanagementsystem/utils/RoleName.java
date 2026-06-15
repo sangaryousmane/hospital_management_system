@@ -1,0 +1,12 @@
+package com.ous.hospitalmanagementsystem.utils;
+
+public enum RoleName {
+
+    ROLE_SUPER_ADMIN, ROLE_HOSPITAL_ADMIN,
+
+    ROLE_DOCTOR, ROLE_NURSE,
+
+    ROLE_PATIENT, ROLE_RECEPTIONIST,
+
+    ROLE_PHARMACIST, ROLE_LAB_TECHNICIAN, ROLE_ACCOUNTANT
+}
